@@ -4,7 +4,7 @@ Welcome to my personal portfolio website. This is done as part of Assignment 1 o
 
 ##  Link for portfolio
 
-Visit the live site: [https://kapil-portfolio.github.io/Akatzz12.github.io/](https://kapil-portfolio.github.io/Akatzz12.github.io/)
+Visit the live site: [https://akatzz12.github.io/](https://akatzz12.github.io/)
 
 ## About
 
