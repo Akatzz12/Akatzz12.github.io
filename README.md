@@ -10,5 +10,27 @@ Visit the live site: [https://kapil-portfolio.github.io/Akatzz12.github.io/](htt
 
 This is my personal portfolio website which give information about me, my projects, skills and research .
 
+## Tech Stack
+
+- React
+- Vite
+- Vanilla
+
+## How to Run This Project
+
+1. clone this repository:
+
+```bash
+git clone https://github.com/Akatzz12/Akatzz12.github.io
+```
+
+2. Run this project locally, use the following command:
+
+```bash
+npm run dev
+```
+
+
+
 # The further details about the project will be added based on upcoming development that will be done as part of upcoming assignments.
 
