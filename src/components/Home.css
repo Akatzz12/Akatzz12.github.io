@@ -15,7 +15,7 @@
 .container {
   width: 100%;
   margin: 0 auto;
-  padding: 0 10px;
+  padding: 0 5px;
 }
 
 .section-title {
@@ -68,7 +68,7 @@
   z-index: 2;
   width: 100%;
   margin: 0 auto;
-  padding: 0 10px;
+  padding: 0 5px;
   text-align: center;
 }
 
@@ -235,11 +235,11 @@
 /* Responsive Design */
 @media (max-width: 768px) {
   .container {
-    padding: 0 10px;
+    padding: 0 5px;
   }
   
   .hero-container {
-    padding: 0 10px;
+    padding: 0 5px;
   }
   
   .hero-title {
