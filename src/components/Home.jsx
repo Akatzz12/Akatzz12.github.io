@@ -1,6 +1,8 @@
 import React from 'react'
 import './Home.css'
 
+// Portfolio Homepage Component
+
 const Home = () => {
   const skillCategories = [
     {
